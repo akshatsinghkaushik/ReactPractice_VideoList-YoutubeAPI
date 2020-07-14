@@ -1,0 +1,30 @@
+.search-bar {
+  background: black !important;
+
+  .field {
+    label {
+      color: white !important;
+    }
+
+    input {
+      color: black !important;
+      background: white !important;
+    }
+
+    input::-webkit-input-placeholder {
+      color: rgba(0, 0, 0, 0.4) !important;
+    }
+
+    input::-moz-placeholder {
+      color: rgba(0, 0, 0, 0.4) !important;
+    }
+
+    input:-ms-input-placeholder {
+      color: rgba(0, 0, 0, 0.4) !important;
+    }
+
+    input:-moz-placeholder {
+      color: rgba(0, 0, 0, 0.4) !important;
+    }
+  }
+}
