@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/akshatsinghkaushik/ReactPractice_VideoList-YoutubeAPI/precache-manifest.1ddfa2a8bfc354f5792d1e6f9f462032.js"
+  "/ReactPractice_VideoList-YoutubeAPI/precache-manifest.e2c414c127f9dfe76411ea888de83192.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/akshatsinghkaushik/ReactPractice_VideoList-YoutubeAPI/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/ReactPractice_VideoList-YoutubeAPI/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
