@@ -12,7 +12,7 @@ export default class App extends Component {
   state = { videos: [], selectedVideo: null };
 
   componentDidMount() {
-    this.onSearchSubmit('trending');
+    this.onSearchSubmit('motivational');
   }
 
   onSearchSubmit = async (term) => {
