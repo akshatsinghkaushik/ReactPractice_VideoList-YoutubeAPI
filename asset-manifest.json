@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ReactPractice_VideoList-YoutubeAPI/static/css/main.c67ac651.chunk.css",
-    "main.js": "/ReactPractice_VideoList-YoutubeAPI/static/js/main.aaf46053.chunk.js",
-    "main.js.map": "/ReactPractice_VideoList-YoutubeAPI/static/js/main.aaf46053.chunk.js.map",
+    "main.js": "/ReactPractice_VideoList-YoutubeAPI/static/js/main.70b47ab9.chunk.js",
+    "main.js.map": "/ReactPractice_VideoList-YoutubeAPI/static/js/main.70b47ab9.chunk.js.map",
     "runtime-main.js": "/ReactPractice_VideoList-YoutubeAPI/static/js/runtime-main.e9e9b9b9.js",
     "runtime-main.js.map": "/ReactPractice_VideoList-YoutubeAPI/static/js/runtime-main.e9e9b9b9.js.map",
-    "static/css/2.89724560.chunk.css": "/ReactPractice_VideoList-YoutubeAPI/static/css/2.89724560.chunk.css",
-    "static/js/2.391083ea.chunk.js": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.391083ea.chunk.js",
-    "static/js/2.391083ea.chunk.js.map": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.391083ea.chunk.js.map",
+    "static/css/2.24fd91c5.chunk.css": "/ReactPractice_VideoList-YoutubeAPI/static/css/2.24fd91c5.chunk.css",
+    "static/js/2.0dac40f5.chunk.js": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.0dac40f5.chunk.js",
+    "static/js/2.0dac40f5.chunk.js.map": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.0dac40f5.chunk.js.map",
     "index.html": "/ReactPractice_VideoList-YoutubeAPI/index.html",
-    "precache-manifest.d98fee13f8f2a74724b9a47296461ca0.js": "/ReactPractice_VideoList-YoutubeAPI/precache-manifest.d98fee13f8f2a74724b9a47296461ca0.js",
+    "precache-manifest.0ec53c77a2f20bbc485a428340ebcb5d.js": "/ReactPractice_VideoList-YoutubeAPI/precache-manifest.0ec53c77a2f20bbc485a428340ebcb5d.js",
     "service-worker.js": "/ReactPractice_VideoList-YoutubeAPI/service-worker.js",
-    "static/css/2.89724560.chunk.css.map": "/ReactPractice_VideoList-YoutubeAPI/static/css/2.89724560.chunk.css.map",
+    "static/css/2.24fd91c5.chunk.css.map": "/ReactPractice_VideoList-YoutubeAPI/static/css/2.24fd91c5.chunk.css.map",
     "static/css/main.c67ac651.chunk.css.map": "/ReactPractice_VideoList-YoutubeAPI/static/css/main.c67ac651.chunk.css.map",
-    "static/js/2.391083ea.chunk.js.LICENSE.txt": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.391083ea.chunk.js.LICENSE.txt",
+    "static/js/2.0dac40f5.chunk.js.LICENSE.txt": "/ReactPractice_VideoList-YoutubeAPI/static/js/2.0dac40f5.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/ReactPractice_VideoList-YoutubeAPI/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.e9e9b9b9.js",
-    "static/css/2.89724560.chunk.css",
-    "static/js/2.391083ea.chunk.js",
+    "static/css/2.24fd91c5.chunk.css",
+    "static/js/2.0dac40f5.chunk.js",
     "static/css/main.c67ac651.chunk.css",
-    "static/js/main.aaf46053.chunk.js"
+    "static/js/main.70b47ab9.chunk.js"
   ]
 }
